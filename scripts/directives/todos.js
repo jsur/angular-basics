@@ -5,4 +5,4 @@ angular.module('todoListApp')
 		controller: 'mainCtrl',
 		replace: true
 	}
-})
+}) 
